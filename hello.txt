@@ -1,2 +1,6 @@
 Chau Hello
+<<<<<<< HEAD
 Linea nueva paso 4
+=======
+ Agregar mas datos
+>>>>>>> nuevo-rama
